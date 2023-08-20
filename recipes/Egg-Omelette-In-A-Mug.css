@@ -1,0 +1,20 @@
+/* styles */
+
+* { 
+    background-color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+    font-style:oblique;
+}
+
+h2 {
+    color: black;
+    font-style: italic;
+}
+
+ul, p,ol {
+    color:grey;
+}
